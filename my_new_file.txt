@@ -3,3 +3,5 @@ Hallo Git
 This is a new feature in main branch
 
 This is a new feature from main branch local
+
+This is a new information from main branch remote
